@@ -85,9 +85,7 @@ Displays engagement levels across different countries.
 
 ---
 
-# ▶️ How to Run the Project
+👤 Author
 
-### 1️⃣ Clone the Repository
+Adesh Kishor Dakhore
 
-```bash
-git clone https://github.com/Adesh2702/mobile-app-user-engagement-analysis
