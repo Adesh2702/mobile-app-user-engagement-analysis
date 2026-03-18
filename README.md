@@ -55,7 +55,7 @@ Shows user distribution across different app versions.
 ---
 
 ## 7️⃣ Session Duration by Device Type
-![Device Session](images/Avg_Session_Duration_by_Device_Type.png)
+![Device Session](https://github.com/Adesh2702/mobile-app-user-engagement-analysis/blob/main/Avg_Session_Duration_by_Device_Type.png)
 
 Compares average session time between Android and iOS users.
 
