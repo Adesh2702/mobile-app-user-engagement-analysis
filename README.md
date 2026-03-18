@@ -4,7 +4,7 @@
 # 📊 Key Visualizations
 
 ## 1️⃣ Key User Engagement Metrics
-![User Metrics](images/Key_User_Metrics_Dashboard.png)
+![User Metrics](https://github.com/Adesh2702/mobile-app-user-engagement-analysis/blob/main/Key_User_Metrics_Dashboard.png)
 
 This dashboard summarizes multiple engagement indicators including:
 - Session duration
