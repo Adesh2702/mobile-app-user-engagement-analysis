@@ -17,7 +17,7 @@ This dashboard summarizes multiple engagement indicators including:
 ---
 
 ## 2️⃣ Push Notification Interaction
-![Push Notification](images/Push_Notification_Interaction_Distribution.png)
+![Push Notification](https://github.com/Adesh2702/mobile-app-user-engagement-analysis/blob/main/Push_Notification_Interaction_Distribution.png)
 
 Shows how frequently users interact with push notifications.
 
@@ -34,7 +34,7 @@ User distribution across subscription plans:
 ---
 
 ## 4️⃣ Monthly User Logins
-![Monthly Logins](images/Monthly_User_Logins.png)
+![Monthly logins](https://github.com/Adesh2702/mobile-app-user-engagement-analysis/blob/main/Monthly_User_Logins.png)
 
 Tracks login activity over time to identify trends and engagement patterns.
 
@@ -62,14 +62,14 @@ Compares average session time between Android and iOS users.
 ---
 
 ## 8️⃣ Churn Risk by Subscription Type
-![Churn Risk](images/Churn_Risk_Distribution_by_Subscription_Type.png)
+![Churn Risk](https://github.com/Adesh2702/mobile-app-user-engagement-analysis/blob/main/Churn_Risk_Distribution_by_Subscription_Type.png)
 
 Analyzes churn probability distribution among subscription tiers.
 
 ---
 
 ## 9️⃣ Sessions per Day by Country
-![Country Sessions](images/Country_User_Engagement_Sessions_Per_Day.png)
+![Country Sessions](https://github.com/Adesh2702/mobile-app-user-engagement-analysis/blob/main/Country_User_Engagement_Sessions_Per_Day.png.png)
 
 Displays engagement levels across different countries.
 
