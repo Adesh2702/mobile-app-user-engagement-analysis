@@ -102,8 +102,8 @@ jupyter notebook
 5. Run the notebook  
 Open `mobile_app_user_engagement_analysis.ipynb` and run all cells to reproduce the analysis and visualizations.
 
-📈 Future Improvements
-## Possible enhancements for this project:
+## 📈 Future Improvements
+### Possible enhancements for this project:
 
 Build an interactive dashboard using Streamlit
 Develop a machine learning model for churn prediction
