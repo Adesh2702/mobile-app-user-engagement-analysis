@@ -84,8 +84,34 @@ Displays engagement levels across different countries.
 - Age groups show **similar session patterns**, indicating the app appeals to multiple demographics.
 
 ---
+## ▶️ How to Run the Project
+
+1. Clone the repository
+
+git clone https://github.com/your-username/mobile-app-user-engagement-analysis.git
+
+2. Navigate to the project folder
+cd mobile-app-user-engagement-analysis
+
+3. Install required libraries
+pip install -r requirements.tx
+
+4. Open the notebook
+jupyter notebook
+
+5. Run the notebook  
+Open `mobile_app_user_engagement_analysis.ipynb` and run all cells to reproduce the analysis and visualizations.
+
+📈 Future Improvements
+## Possible enhancements for this project:
+
+Build an interactive dashboard using Streamlit
+Develop a machine learning model for churn prediction
+Perform user segmentation analysis
+Add correlation heatmaps and feature importance
+Deploy as a data analytics web app
 
 👤 Author
 
 Adesh Kishor Dakhore
-
+B.Tech CSE – Sandip University
