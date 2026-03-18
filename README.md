@@ -24,8 +24,7 @@ Shows how frequently users interact with push notifications.
 ---
 
 ## 3️⃣ Subscription Distribution
-![Subscription Distribution](images/Subscription_Distribution_Percentage.png)
-
+![Subscription Distribution](https://github.com/Adesh2702/mobile-app-user-engagement-analysis/blob/main/User_Activity_by_Age_Group.png)
 User distribution across subscription plans:
 - Free
 - Trial
@@ -41,14 +40,14 @@ Tracks login activity over time to identify trends and engagement patterns.
 ---
 
 ## 5️⃣ Sessions by Age Group
-![Age Group Activity](images/User_Activity_by_Age_Group.png)
+![Age Group Activity](https://github.com/Adesh2702/mobile-app-user-engagement-analysis/blob/main/User_Activity_by_Age_Group.png)
 
 Average number of daily sessions segmented by age group.
 
 ---
 
 ## 6️⃣ User Count by App Version
-![App Version](images/User_Count_by_App_Version.png)
+![App Version](https://github.com/Adesh2702/mobile-app-user-engagement-analysis/blob/main/User_Count_by_App_Version.png)
 
 Shows user distribution across different app versions.
 
@@ -69,7 +68,7 @@ Analyzes churn probability distribution among subscription tiers.
 ---
 
 ## 9️⃣ Sessions per Day by Country
-![Country Sessions](https://github.com/Adesh2702/mobile-app-user-engagement-analysis/blob/main/Country_User_Engagement_Sessions_Per_Day.png.png)
+![Country Sessions](https://github.com/Adesh2702/mobile-app-user-engagement-analysis/blob/main/Country_User_Engagement_Sessions_Per_Day.png)
 
 Displays engagement levels across different countries.
 
