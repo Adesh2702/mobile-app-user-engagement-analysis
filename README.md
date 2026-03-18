@@ -88,7 +88,7 @@ Displays engagement levels across different countries.
 
 1. Clone the repository
 
-git clone https://github.com/your-username/mobile-app-user-engagement-analysis.git
+git clone https://github.com/Adesh2702/mobile-app-user-engagement-analysis.git
 
 2. Navigate to the project folder
 cd mobile-app-user-engagement-analysis
